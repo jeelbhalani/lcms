@@ -1,0 +1,6 @@
+{
+  "name": "LCMS — Law Case Management System",
+  "description": "Comprehensive, secure Law Case Management System for legal practices featuring role-based portals for Admins, Lawyers, and Clients, real-time case tracking, hearings, legal intelligence, and document management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
